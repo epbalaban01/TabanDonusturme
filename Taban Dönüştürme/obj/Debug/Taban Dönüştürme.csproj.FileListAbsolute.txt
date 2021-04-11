@@ -1,0 +1,10 @@
+D:\Visual Studio Projeler\Taban Dönüştürme\Taban Dönüştürme\bin\Debug\Taban Dönüştürme.exe.config
+D:\Visual Studio Projeler\Taban Dönüştürme\Taban Dönüştürme\bin\Debug\Taban Dönüştürme.exe
+D:\Visual Studio Projeler\Taban Dönüştürme\Taban Dönüştürme\bin\Debug\Taban Dönüştürme.pdb
+D:\Visual Studio Projeler\Taban Dönüştürme\Taban Dönüştürme\obj\Debug\Taban Dönüştürme.csprojResolveAssemblyReference.cache
+D:\Visual Studio Projeler\Taban Dönüştürme\Taban Dönüştürme\obj\Debug\Taban_Dönüştürme.Form1.resources
+D:\Visual Studio Projeler\Taban Dönüştürme\Taban Dönüştürme\obj\Debug\Taban_Dönüştürme.Properties.Resources.resources
+D:\Visual Studio Projeler\Taban Dönüştürme\Taban Dönüştürme\obj\Debug\Taban Dönüştürme.csproj.GenerateResource.Cache
+D:\Visual Studio Projeler\Taban Dönüştürme\Taban Dönüştürme\obj\Debug\Taban Dönüştürme.exe
+D:\Visual Studio Projeler\Taban Dönüştürme\Taban Dönüştürme\obj\Debug\Taban Dönüştürme.pdb
+D:\Visual Studio Projeler\Taban Dönüştürme\Taban Dönüştürme\obj\Debug\Taban_Dönüştürme.Form2.resources
